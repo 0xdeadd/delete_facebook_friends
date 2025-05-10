@@ -60,6 +60,17 @@ This tool doesn't require you to provide your Facebook credentials or any API ac
 - The script can only unfriend people shown in the friends list page
 - Facebook may rate-limit unfriending actions if done too quickly
 
+## Final Step: Account Deletion
+
+After using this tool to unfriend your connections, you may want to consider deleting your Facebook account entirely. This is a more permanent solution that ensures your data is removed from Facebook's servers. To delete your account:
+
+1. Go to [Facebook Account Settings](https://www.facebook.com/settings)
+2. Click on "Your Facebook Information" in the left sidebar
+3. Click on "Deactivation and Deletion"
+4. Choose "Delete Account" and follow the prompts
+
+Note: Facebook provides a 30-day grace period during which you can cancel the deletion. After 30 days, the deletion becomes permanent.
+
 ## Web Server
 
 This repository also includes a simple web server built with Express that:
